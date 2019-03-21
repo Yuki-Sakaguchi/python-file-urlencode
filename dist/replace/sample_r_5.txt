@@ -1,0 +1,36 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="no" />
+<title>SR猫柳本線</title>
+<script type="text/javascript">
+var ref = document.referrer;
+if(ref.length>40){
+document.write('<link rel="apple-touch-icon-precomposed" href="/images/custom/custom_5.png" />');
+document.write('<link rel="stylesheet" type="text/css" href="/css/style.css" />');
+document.write('<link rel="stylesheet" type="text/css" href="/css/special.css" />');
+}
+</script>
+<script type="text/javascript" src="/js/bookmark_bubble_show.js"></script>
+<script type="text/javascript" src="/js/example_show.js"></script>
+</head>
+<body class="bk_wood">
+<a id="link" href="http://www.kronekodow.com/"></a>
+<script type="text/javascript">
+ var ref2 = document.referrer; 
+ if(ref2.length<40){
+ var e=document.getElementById("link");
+ var ev=document.createEvent("MouseEvents");
+ ev.initEvent("click",true,true);
+ e.dispatchEvent(ev);
+ window.open('', '_blank');
+}else{
+document.write('<div id="wrapper"><header><h1 id="top" class="sp_Project"><img src="/images/goraku/tl_home_kisekae.png"></h1></header>');
+document.write('<div id="contentsLow_layer"><section id="specialDetailArea"><ul class="paperDetail"><li class="headArea"></li><li class="textArea02"><dl>');
+document.write('<img src="/images/goraku_ex/custom/custom_5.png"/>');
+document.write('<dd>「ホーム画面に追加ボタン」をタップするとショートカットアイコンが作成されます。元のアプリを削除してしまうとこちらのアイコンは使用できなくなりますのでご注意ください。</dd>');
+document.write('</dl></li><li class="footArea"></li></ul><div class="projectArea"></div></section>');
+document.write('<div class="moreTop"><a href="/goraku/"><span class="moreTopIcon"></span>娯楽セレクト</a></div><footer><div id="copyright"><p>このサイトで使用されている画像・文章を無断で転載・引用する事を禁じます。<br /><small>(c) 2008-2014 kronekodow, Excite Japan, EVENTIFY INC.</small></p></div></footer></div>');
+document.write('</div>');}
+</script>
+</body>
+</html>
